@@ -3,11 +3,8 @@ import java.util.Scanner;
 
 public class Avenger {
 	
-	String name;
+	String name, power, weapon, planet;
 	int age;
-	String power;
-	String weapon;
-	String planet;
 	
 	Scanner sc = new Scanner(System.in);
 	

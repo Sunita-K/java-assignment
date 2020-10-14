@@ -1,0 +1,11 @@
+Question 1:
+	Create a class Avenger with
+	properties - name, age, power, weapon, planet and with
+	functions - getDetails() and displayDetails().
+	Create 5 objects as an array in the main method and call.
+
+Question 2:
+	Create an int array with 5 values and print only odd values.
+
+Question 3:
+	Create an int array of size 5. Take all the values from the user, add all the values and print the sum.

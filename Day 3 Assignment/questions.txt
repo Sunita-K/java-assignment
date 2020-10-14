@@ -1,0 +1,12 @@
+Question 1:
+	Take 5 subjects marks each subject 100 marks.
+	Calculate the percentage.
+	Based on the percentage print the grade and the percentage.
+
+Question 2:
+	Take employee name, date of birth, month of birth, birth year, monthly salary.
+		5l - 20%
+		4l - 15%
+		3l - 10%
+		2l - 5%
+	Display the name, age, annual salary and the tax amount.
